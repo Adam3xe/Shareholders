@@ -61,7 +61,6 @@ sponsors = [
 
 # Shareholder apartments
 shareholders = [
-    Apartment("shareholder", "1C", shares=500),
     Apartment("shareholder", "1B", shares=510),
     Apartment("shareholder", "1E", shares=520),
     Apartment("shareholder", "1F", shares=530),
