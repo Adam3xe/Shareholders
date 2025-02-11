@@ -166,7 +166,6 @@ shareholders = [
     Apartment("shareholder", "7L", shares=100),
 ]
 
-# Set how many sponsor apartments to outrank (let's say 16 for this example)
 outrank_count = 16
 
 # Ensure sponsors are at least as many as outrank_count
